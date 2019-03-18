@@ -1,0 +1,1 @@
+Solutions for Numeric Methods course in C++
